@@ -1,0 +1,40 @@
+@import '~bootstrap/scss/bootstrap';
+body{
+    background-color: rgba(231, 252, 235, 0.61);
+}
+ul,ol,li{
+    list-style: none;
+}
+h1,h2,h3,h4,h5,h6,p,ul,li,ol,a,span{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+.btn-success{
+    background-color: #41B883 ;
+}
+.text-success{
+    color: #41B883;
+}
+.bg-success{
+    background-color:  #41B883 !important;
+    color: #fff ;
+}
+.btn-vue2{
+    background-color: #35495E;
+    color: #fff;
+}
+.bg-vue2{
+    background-color: #35495E;
+    color: #fff;
+}
+.bg-danger{
+    background-color:  #c0393b;
+    color: #fff;
+}
+.btn-danger{
+    background-color:  #c0393b;
+    outline: 0;
+    
+    border: none;
+}
